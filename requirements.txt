@@ -1,8 +1,8 @@
-gnicorn
 flask 
 numpy 
 pandas
 werkzeug
 joblib
 jinja2
-sklearn
+scikit-learn
+
